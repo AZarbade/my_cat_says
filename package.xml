@@ -3,9 +3,9 @@
 <package format="3">
   <name>my_cat_says</name>
   <version>0.0.0</version>
-  <description>TODO: Simple publisher and subscriber example.</description>
+  <description>Simple publisher and subscriber example.</description>
   <maintainer email="anzarbade@gmail.com">ros_dev</maintainer>
-  <license>TODO: https://i.imgflip.com/jtqhj.jpg</license>
+  <license>https://i.imgflip.com/jtqhj.jpg</license>
 
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
